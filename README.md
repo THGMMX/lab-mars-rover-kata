@@ -1,13 +1,13 @@
-#LAB | JS: Mars Rover Kata
+# LAB | JS: Mars Rover Kata
 
-##Learning goals
+## Learning goals
 In this exercise, the goal is to apply as many as possible of the concepts you have just learned:
 
 how to work with different types of variables,
 how to manipulate nested data structures,
 how to define and invoke functions.
 
-##Getting started
+## Getting started
 Open a new CodePen and paste this code as your starter:
 
 // Rover object goes here:
@@ -25,7 +25,7 @@ function moveForward(rover) {
   console.log('moveForward was called');
 }
 
-##Introduction
+## Introduction
 We are sending a rover to Mars, and we need to be able to move it through a series of instructions sent from the Earth. As the final exercise for this part of the module, you will be leading this project.
 
 
@@ -48,7 +48,7 @@ Let’s go!
 
 Any time you are stuck, reach out to the members of the Ironhack community in the code-help Slack channel. Also, don’t hesitate to connect with your peers in your cohorts’ Slack channel, and then if you didn’t get needed help, reach out to your TAs, via Slack or email.
 
-##Instructions
+## Instructions
 Iteration 1 | The rover object
 Create an object to represent the rover. This object will have only one property for now: the direction.
 
